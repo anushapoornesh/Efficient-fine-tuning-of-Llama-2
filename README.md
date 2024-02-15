@@ -11,7 +11,7 @@ Streamlined tokenizing for effective text processing and fine-tuned the Transfor
 **inference.py** - Python script for running inference
 
 **llama**
-    - **generation.py** - Text generation module that generates text from prompts using the tokenizer
-    - **lora.py** - Custom PyTorch linear layer class that incorporates LoRA (Low-Rank Adaptation)
-    - **model.py** - Llama 2 model
-    - **tokenizer.py** - Tokenizer class for encoding text to token IDs and decoding token IDs back to text
+- **generation.py** - Text generation module that generates text from prompts using the tokenizer
+- **lora.py** - Custom PyTorch linear layer class that incorporates LoRA (Low-Rank Adaptation)
+- **model.py** - Llama 2 model
+- **tokenizer.py** - Tokenizer class for encoding text to token IDs and decoding token IDs back to text
